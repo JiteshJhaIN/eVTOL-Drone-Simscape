@@ -51,7 +51,7 @@ jobs:
           cache: true
           products: |
             Simulink
-            Simscape
+            Simscape 
             Stateflow
             UAV_Toolbox
             Aerospace_Blockset
@@ -64,7 +64,6 @@ jobs:
   job-run-tests:
 
     # This job starts only if the previous job is successful.
-    needs: job-check-project
 
     runs-on: ubuntu-latest
     steps:
@@ -78,15 +77,17 @@ jobs:
           release: R2024b
           cache: true
           products: |
-            Simulink
+            Aerospace_Blockset
+            Aerospace_Toolbox
+            Control_Toolbox
+            Power_System_Blocks
+            Robust_Toolbox
+            Simdriveline
             Simscape
-            stateflow
-            uav_toolbox
-            aerospace_blockset
-            power_system_blocks
-            simulink_control_design
-            Simscape_Driveline
-            Simscape_Electrical
+            Simulink
+            Simulink_Control_Design
+            Stateflow
+            UAV_Toolbox
             
 
       - name: Run tests
