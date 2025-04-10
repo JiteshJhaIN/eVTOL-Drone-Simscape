@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="Components/Motor/MotorPIDLoopshaped.mat" GroupUUID="" Icon="" Name="MotorPIDLoopshaped" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="c0f2f841-a325-4eb2-b6ae-92e3588f8e0e"/>
+</Info>
