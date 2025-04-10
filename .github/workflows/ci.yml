@@ -54,7 +54,7 @@ jobs:
             Simscape
             stateflow
             uav_toolbox
-            aerospace_toolbox
+            aerospace_blockset
             power_system_blocks
             simulink_control_design
             Simscape_Driveline
@@ -86,7 +86,7 @@ jobs:
             Simscape
             stateflow
             uav_toolbox
-            aerospace_toolbox
+            aerospace_blockset
             power_system_blocks
             simulink_control_design
             Simscape_Driveline
