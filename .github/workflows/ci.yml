@@ -54,10 +54,6 @@ jobs:
             Simscape
             stateflow
             uav_toolbox
-            power_system_blocks
-            simulink_control_design
-            Simscape_Driveline
-            Simscape_Electrical
 
       - name: Run tests
         uses: matlab-actions/run-command@v2
