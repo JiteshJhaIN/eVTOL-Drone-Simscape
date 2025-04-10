@@ -52,8 +52,9 @@ jobs:
           products: |
             Simulink
             Simscape
-            stateflow
-            uav_toolbox
+            Stateflow
+            UAV_Toolbox
+            Aerospace_Blockset
 
       - name: Run tests
         uses: matlab-actions/run-command@v2
