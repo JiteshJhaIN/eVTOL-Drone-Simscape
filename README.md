@@ -74,7 +74,7 @@ To visualise the simulation select "Visualization Mode: On" from model canvas.
 
 ## Setup 
 * Clone the project repository.
-* Open ElectricVehicleSimscape.prj to get started with the project. 
+* Open eVTOLDroneSimscape.prj to get started with the project. 
 * Requires MATLAB&reg; release R2024b or newer.
 
 For a detailed example on VTOL design and control tuning, see example
