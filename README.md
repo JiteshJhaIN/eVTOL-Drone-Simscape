@@ -11,10 +11,11 @@ eVTOL aircraft are being explored for diverse applications, including passenger 
  allows these aircraft to perform tasks that require both agility and speed.
 
 
-View on File Exchange: [![View Electric Vehicle Design with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
+
+[![View ​​eVTOL Drone Design with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180791-evtol-drone-design-with-simscape)
 
 
-You can also open in MATLAB Online: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]
+You can also open in MATLAB Online: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/eVTOL-Drone-Simscape)
 
 <img src="Overview/html/EVTOLDesignOverview_01.png"
  alt="Screenshot of powertrain subsystem"
